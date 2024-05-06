@@ -5,7 +5,8 @@ import static io.github.mfaisalkhatri.drivers.DriverManager.getDriver;
 import org.openqa.selenium.By;
 
 /**
- * @author Faisal Khatri
+ * @author sameer Ahammed
+ 
  * @since 2/21/2023
  **/
 public class HomePage {
